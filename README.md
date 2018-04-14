@@ -1,1 +1,1 @@
-These projects are done during Udacity Machine Learning Nanodegree program
+These projects were done during Udacity Machine Learning Nanodegree program 
